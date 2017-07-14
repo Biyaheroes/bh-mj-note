@@ -1,0 +1,2 @@
+"use strict";function _interopRequireDefault(obj){return obj&&obj.__esModule?obj:{default:obj}}var _react=require("react"),_react2=_interopRequireDefault(_react),_reactDom=require("react-dom"),_reactDom2=_interopRequireDefault(_reactDom),_note=require("./note.js"),_note2=_interopRequireDefault(_note);_reactDom2.default.render(_react2.default.createElement(_note2.default,null));
+//# sourceMappingURL=test.js.map

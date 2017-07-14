@@ -1,0 +1,7 @@
+<mjml>
+	<mj-body>
+		<mj-container>
+			<mj-note label="This is a note"/>
+		</mj-container>
+	</mj-body>
+</mjml>
