@@ -1,39 +1,23 @@
 {
-  "name": "bh-mj-note",
-  "description": "Biyaheroes MJML Note Component",
-  "main": ".filter.js",
-  "authors": [
-    "Biyaheroes Developers <developers@biyaheroes.com>"
-  ],
-  "license": "MIT",
-  "keywords": [
-    "biyaheroes",
-    "mjml",
-    "note",
-    "component"
-  ],
-  "homepage": "https://github.com/Biyaheroes/bh-mj-note",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "resolutions": {
-    "doubt": "^0.30.0",
-    "raze": "^0.32.0",
-    "wichevr": "^0.12.0"
-  },
-  "dependencies": {
-    "bh-mj-detail": "^0.6.0",
-    "doubt": "^0.30.0",
-    "filpos": "^0.1.0",
-    "jquery": "^3.2.1",
-    "nbyx": "^0.1.0",
-    "parseon": "^0.9.0",
-    "protype": "^0.22.0",
-    "sxty4": "^0.10.0",
-    "react": "^15.6.1"
-  }
+	"name": "bh-mj-note",
+	"description": "Biyaheroes MJML Note Component",
+	"main": ".filter.js",
+	"authors": [
+		"Biyaheroes Developers <developers@biyaheroes.com>"
+	],
+	"license": "MIT",
+	"keywords": [
+		"biyaheroes",
+		"mjml",
+		"note",
+		"component"
+	],
+	"homepage": "https://github.com/Biyaheroes/bh-mj-note",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
 }
