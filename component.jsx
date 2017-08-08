@@ -4,7 +4,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import Note from "./note.js";
+import Note from "./note.module.jsx";
 
 ReactDOM.render( 
 	<Note
